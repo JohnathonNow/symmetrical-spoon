@@ -1,0 +1,6 @@
+language: c
+compiler: gcc
+os:
+  - linux
+
+script: .hidden/grade.sh
